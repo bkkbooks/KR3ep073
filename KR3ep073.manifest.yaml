@@ -1,0 +1,376 @@
+canonical_identifier: bkk:krp/KR3ep073/v1
+canonical_location: https://kanripo.org/bkk/KR3ep073/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 繆松心醫案
+  identifiers:
+    krp: KR3ep073
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep073.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep073_000.yaml, hash: 'sha256:4ac682809b378cecf78a3c08d7f4be0eb064bb09e8e7458d0227423b704bdb12'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep073_000.markers.yaml, hash: 'sha256:c5c5766481f3b3796147e3d39220f55309ba076285c29c1b573e381f79ca2a4e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 462
+  label: 喘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d3.h1s1
+    span:
+    - body
+    - 462
+    - 723
+  label: 不寐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d4.h1s1
+    span:
+    - body
+    - 723
+    - 2785
+  label: 失血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d5.h1s1
+    span:
+    - body
+    - 2785
+    - 3191
+  label: 咳
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d6.h1s1
+    span:
+    - body
+    - 3191
+    - 3459
+  label: 咽乾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d7.h1s1
+    span:
+    - body
+    - 3459
+    - 4048
+  label: 陰虧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d8.h1s1
+    span:
+    - body
+    - 4048
+    - 4128
+  label: 中暑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d9.h1s1
+    span:
+    - body
+    - 4128
+    - 4687
+  label: 瘧
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d10.h1s1
+    span:
+    - body
+    - 4687
+    - 5758
+  label: 痢
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d11.h1s1
+    span:
+    - body
+    - 5758
+    - 6288
+  label: 風熱
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d12.h1s1
+    span:
+    - body
+    - 6288
+    - 7455
+  label: 木乘土
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d13.h1s1
+    span:
+    - body
+    - 7455
+    - 8777
+  label: 肝風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d14.h1s1
+    span:
+    - body
+    - 8777
+    - 9155
+  label: 瘕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d15.h1s1
+    span:
+    - body
+    - 9155
+    - 9459
+  label: 臌
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d16.h1s1
+    span:
+    - body
+    - 9459
+    - 11443
+  label: 濕
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d17.h1s1
+    span:
+    - body
+    - 11443
+    - 11721
+  label: 腸風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d18.h1s1
+    span:
+    - body
+    - 11721
+    - 11885
+  label: 疝
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d19.h1s1
+    span:
+    - body
+    - 11885
+    - 12948
+  label: 濁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d20.h1s1
+    span:
+    - body
+    - 12948
+    - 14415
+  label: 奇經
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d21.h1s1
+    span:
+    - body
+    - 14415
+    - 15923
+  label: 中風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d22.h1s1
+    span:
+    - body
+    - 15923
+    - 17549
+  label: 肝風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d23.h1s1
+    span:
+    - body
+    - 17549
+    - 17657
+  label: 肝火
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d24.h1s1
+    span:
+    - body
+    - 17657
+    - 17943
+  label: 眩暈
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d25.h1s1
+    span:
+    - body
+    - 17943
+    - 18307
+  label: 癲癇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d26.h1s1
+    span:
+    - body
+    - 18307
+    - 19024
+  label: 痰火
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d27.h1s1
+    span:
+    - body
+    - 19024
+    - 19240
+  label: 汗
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d28.h1s1
+    span:
+    - body
+    - 19240
+    - 19548
+  label: 不寐
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d29.h1s1
+    span:
+    - body
+    - 19548
+    - 19815
+  label: 消渴
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d30.h1s1
+    span:
+    - body
+    - 19815
+    - 20419
+  label: 肺痿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d31.h1s1
+    span:
+    - body
+    - 20419
+    - 23166
+  label: 虛損附失血衄血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d32.h1s1
+    span:
+    - body
+    - 23166
+    - 24369
+  label: 遺精
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d33.h1s1
+    span:
+    - body
+    - 24369
+    - 26105
+  label: 淋濁
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d34.h1s1
+    span:
+    - body
+    - 26105
+    - 26487
+  label: 痿
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d35.h1s1
+    span:
+    - body
+    - 26487
+    - 27255
+  label: 腸痹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep073_jc_000-d36.h1s1
+    span:
+    - body
+    - 27255
+    - 27747
+  label: 癃閉
+  type: section
+  level: 1
+hash: sha256:4bf554ea785218caddcbfb5b565dc2f8191cae6185ed36407bd75e01e68b249f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
